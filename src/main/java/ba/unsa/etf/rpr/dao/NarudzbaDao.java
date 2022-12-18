@@ -1,4 +1,5 @@
 package ba.unsa.etf.rpr.dao;
 
-public class NarudzbaDao {
+
+public interface NarudzbaDao {
 }
